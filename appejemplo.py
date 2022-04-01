@@ -9,4 +9,4 @@ import pandas as pd
 #las siguientes lineas eran para ver ejemplos
 st.text("holamundo")
 st.text("la siguiente es una integral")
-st.text("\int_1^6sin(x)dx")
+st.text("\int_1^6 sin(x)dx")

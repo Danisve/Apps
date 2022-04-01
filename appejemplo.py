@@ -2,6 +2,9 @@ import streamlit as st
 st.title("mi primer app")
 click=st.button("dale click")
 st.write("el valor de click es:",click)
+
+if click==true:
+st.image("imagen.jpg")
 #st.button("otro boton")
 import pandas as pd
 #df=pd.read_csv('https://raw.githubusercontent.com/quantum-apps/mapa/main/data.csv')

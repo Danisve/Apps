@@ -3,7 +3,7 @@ st.title("mi primer app")
 click=st.button("dale click")
 st.write("el valor de click es:",click)
 
-if click==true:
+if click==True:
     st.image("imagen.jpg")
 
 #st.button("otro boton")

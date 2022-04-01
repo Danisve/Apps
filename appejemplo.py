@@ -4,7 +4,7 @@ click=st.button("dale click")
 st.write("el valor de click es:",click)
 
 if click==true:
-st.image("imagen.jpg")
+st.image("imagen")
 #st.button("otro boton")
 import pandas as pd
 #df=pd.read_csv('https://raw.githubusercontent.com/quantum-apps/mapa/main/data.csv')

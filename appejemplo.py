@@ -1,4 +1,4 @@
 import streamlit as st
 st.title("mi primer app")
 st.button("dale click")
-st.button("otro boton")
+#st.button("otro boton")

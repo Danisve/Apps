@@ -17,3 +17,7 @@ st.text("la siguiente es una integral")
 st.latex("\int_1^6 sin(x)dx")
 st.markdown("#titulo")
 st.markdown("**este es una viñeta**")
+numl = st.slider('elige un numero 1', 0, 130, 25)
+num2 = st.slider('elige un numero 2', 0, 130, 25)
+suma= num1+num2
+st.write ("la suma de",num1,"y",num2,"es:",suma)

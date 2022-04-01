@@ -7,4 +7,4 @@ import pandas as pd
 #st.write(df)
 #st.map(df)
 #las siguientes lineas eran para ver ejemplos
-st.wirte("holamundo")
+st.write("holamundo")

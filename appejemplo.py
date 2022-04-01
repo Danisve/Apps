@@ -2,3 +2,7 @@ import streamlit as st
 st.title("mi primer app")
 st.button("dale click")
 #st.button("otro boton")
+import pandas as pandas
+df=pd.read_csv('https://raw.githubusercontent.com/quantum-apps/mapa/main/data.csv')
+st.write(df)
+st.map(df)

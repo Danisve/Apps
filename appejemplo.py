@@ -10,3 +10,5 @@ import pandas as pd
 st.text("holamundo")
 st.text("la siguiente es una integral")
 st.text("\int_1^6 sin(x)dx")
+st.markdown("#titulo")
+st.markdown("**este es una viñeta**")
